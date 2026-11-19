@@ -44,6 +44,20 @@ You build it line by line on the [worksheet](worksheet.pdf) as the morning goes.
 | [`scenario-cards.pdf`](scenario-cards.pdf) | The four scenario cards for Exercise 2 |
 | [`handout.pdf`](handout.pdf) | Terms and explainers, with a glossary and sources |
 | [`slides.pdf`](slides.pdf) | The slides |
+| [`AGENTS.md`](AGENTS.md) | The workshop explained to an AI agent, with ground rules for metric advice |
+| [`.claude/skills/`](.claude/skills) | Three agent skills: the three questions, DORA and SPACE |
+
+## Working with an AI agent
+
+Clone this repository and open it in a coding agent. [`AGENTS.md`](AGENTS.md) tells the agent what the workshop is, what the dataset holds and how to help without handing you a dashboard. Three skills go with it:
+
+| Skill | What it does |
+| --- | --- |
+| [`three-questions`](.claude/skills/three-questions/SKILL.md) | Interrogates any metric: what it hides, what it rewards, what counter-balances it |
+| [`dora-metrics`](.claude/skills/dora-metrics/SKILL.md) | Explains and critiques the five DORA delivery metrics |
+| [`space-framework`](.claude/skills/space-framework/SKILL.md) | Audits a set of metrics for balance across the five SPACE dimensions |
+
+Try it on your starter set: ask the agent to run the three questions on each metric you chose.
 
 ## The lab dataset
 
