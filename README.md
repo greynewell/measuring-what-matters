@@ -43,6 +43,7 @@ You build it line by line on the [worksheet](worksheet.pdf) as the morning goes.
 | [`worksheet.pdf`](worksheet.pdf) | The two-page worksheet you fill in through the morning |
 | [`scenario-cards.pdf`](scenario-cards.pdf) | The four scenario cards for Exercise 2 |
 | [`starter-set.md`](starter-set.md) | The worksheet as a fill-in text file, for laptops and AI agents |
+| [`solutions.md`](solutions.md) | The answer key for Exercises 1 and 2. Try them first |
 | [`handout.pdf`](handout.pdf) | Terms and explainers, with a glossary and sources |
 | [`slides.pdf`](slides.pdf) | The slides |
 | [`AGENTS.md`](AGENTS.md) | The workshop explained to an AI agent, with ground rules for metric advice |

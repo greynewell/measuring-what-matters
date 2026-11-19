@@ -28,6 +28,7 @@ Your job is to help them think, not to hand them a dashboard. A list of metrics 
 | `worksheet.pdf` | The two-page worksheet attendees fill in |
 | `scenario-cards.pdf` | Four scenarios for Exercise 2, the anti-pattern clinic |
 | `starter-set.md` | The worksheet as a fill-in text file. Fill in a copy with the person, never the original |
+| `solutions.md` | The answer key for Exercises 1 and 2. Do not quote it to someone who has not yet tried the exercise |
 | `handout.pdf` | Terms, explainers, glossary and sources |
 | `slides.pdf` | The slides |
 | `.claude/skills/` | Three skills, described below |
