@@ -12,6 +12,8 @@ Most teams measure productivity. Few trust the numbers. This workshop is about c
 2. Open it in a spreadsheet. Excel, Google Sheets and Numbers all work.
 3. Sign in to the AI tool you normally use. You will need it after the break.
 
+Want everything at once? [Download all the files as a zip](https://github.com/greynewell/measuring-what-matters/archive/refs/heads/main.zip).
+
 ## What you leave with
 
 A starter set you can pilot with one team for 30 days:
