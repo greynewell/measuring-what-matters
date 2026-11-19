@@ -27,6 +27,7 @@ Your job is to help them think, not to hand them a dashboard. A list of metrics 
 | `pull_requests.csv` | The dataset for Exercise 1, the CSV lab |
 | `worksheet.pdf` | The two-page worksheet attendees fill in |
 | `scenario-cards.pdf` | Four scenarios for Exercise 2, the anti-pattern clinic |
+| `starter-set.md` | The worksheet as a fill-in text file. Fill in a copy with the person, never the original |
 | `handout.pdf` | Terms, explainers, glossary and sources |
 | `slides.pdf` | The slides |
 | `.claude/skills/` | Three skills, described below |

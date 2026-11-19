@@ -42,6 +42,7 @@ You build it line by line on the [worksheet](worksheet.pdf) as the morning goes.
 | [`pull_requests.csv`](pull_requests.csv) | The dataset for Exercise 1 |
 | [`worksheet.pdf`](worksheet.pdf) | The two-page worksheet you fill in through the morning |
 | [`scenario-cards.pdf`](scenario-cards.pdf) | The four scenario cards for Exercise 2 |
+| [`starter-set.md`](starter-set.md) | The worksheet as a fill-in text file, for laptops and AI agents |
 | [`handout.pdf`](handout.pdf) | Terms and explainers, with a glossary and sources |
 | [`slides.pdf`](slides.pdf) | The slides |
 | [`AGENTS.md`](AGENTS.md) | The workshop explained to an AI agent, with ground rules for metric advice |
@@ -58,6 +59,23 @@ Clone this repository and open it in a coding agent. [`AGENTS.md`](AGENTS.md) te
 | [`space-framework`](.claude/skills/space-framework/SKILL.md) | Audits a set of metrics for balance across the five SPACE dimensions |
 
 Try it on your starter set: ask the agent to run the three questions on each metric you chose.
+
+## The AI harness exercise
+
+Two rounds, after the break. The point is to see how much the answer depends on what you bring to the tool.
+
+**Round 1.** Open a fresh chat in your AI tool, outside this repository, and send exactly this:
+
+```
+Suggest five metrics to prove that our AI coding assistant is paying off.
+```
+
+**Round 2.** Ask again, one of two ways, then compare with your neighbor.
+
+- **By hand.** Rewrite the prompt so it asks the three questions of every metric: what does it hide, what behavior does it reward, what counter-balances it.
+- **With the skill.** Send the same Round 1 prompt, unchanged, with the [`three-questions`](.claude/skills/three-questions/SKILL.md) skill loaded. Open this repository in a coding agent, or paste the skill file into your chat first.
+
+Same tool, different results.
 
 ## The lab dataset
 
@@ -185,3 +203,7 @@ Adoption, acceptance rate and lines generated show that a tool is being used. Th
 - [Psychological safety: definition and key references](https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/emergent-states/affective-emergent-states/psych-safety.html), UC San Diego
 
 The [handout](handout.pdf) explains each of these in more depth.
+
+## License
+
+These materials are licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). Use them, adapt them and teach with them, as long as you credit Grey Newell and link back here. See [`LICENSE`](LICENSE).
